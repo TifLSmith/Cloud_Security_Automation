@@ -1,6 +1,0 @@
-.env
-postgres-data/
-machine.json		
-server.test.pem		
-server.test.pem.crt	
-server.test.pem.key
